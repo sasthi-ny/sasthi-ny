@@ -1,16 +1,20 @@
-## Hi there 👋
+I’m Sasthi, a postdoctoral researcher working on computational chemistry and computational biophysics.
 
-<!--
-**sasthi-ny/sasthi-ny** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- I’m currently working on molecular dynamics simulations of membrane–nanoplastic interactions and electron transfer in bacterial systems.
+- I’m currently learning advanced machine learning, including deep learning, and Graph neural networks.
+- How to reach me: [sasthi.phys@gmail.com] | [LinkedIn or Google Scholar if you want]
+- Pronouns: he/him
 
-Here are some ideas to get you started:
+### 🧪 Research Interests
+- Molecular Dynamics Simulations  
+- Membrane Biophysics  
+- Electron Transfer in Multiheme Proteins  
+- Coarse-Grained Modeling
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🛠️ Tools & Technologies
+- GROMACS | NAMD | CHARMM-GUI | VMD  
+- Python | Bash | Fortran| HPC (MPI/OpenMP)
+---
+
+Thanks for visiting my profile!
